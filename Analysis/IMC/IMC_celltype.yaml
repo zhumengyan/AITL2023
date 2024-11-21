@@ -1,0 +1,34 @@
+cell_types:
+  Fibroblast:
+    - aSMA
+    - Collagen_I
+  Endothelial:
+    - CD31
+  fDC:
+    - CD21
+  B cells:
+    - CD20
+  CD8+ cells:
+    - CD3
+    - CD8a
+  CD4+ cells:
+    - CD3
+    - CD4
+  Treg:
+    - CD3
+    - CD4
+    - FOXP3
+  Tfh:
+    - CD3
+    - PD_1
+    - ICOS
+    - CD10
+    - BCL6
+  Macrophage:
+    - CD14
+    - CD68
+    - CD163
+  DC:
+    - CD303
+    - CD141
+    - CD1c
